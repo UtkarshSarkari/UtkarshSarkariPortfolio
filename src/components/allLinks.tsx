@@ -1,18 +1,22 @@
 export const allLinks = [
     {
         name: 'About',
-        src: '/'
+        src: 'about'
     },
     {
-        name: 'Skills',
-        src: '/skills'
+        name: 'Experience',
+        src: 'work'
     },
     {
         name: 'Projects',
-        src: '/projects'
+        src: 'projects'
+    },
+    {
+        name: 'Skills',
+        src: 'skills'
     },
     {
         name: 'Contact',
-        src: '/contact'
+        src: 'contact'
     },
 ];
